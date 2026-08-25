@@ -1,0 +1,189 @@
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayBUS\obj\Debug\QLCHTraiCayBUS.pdb

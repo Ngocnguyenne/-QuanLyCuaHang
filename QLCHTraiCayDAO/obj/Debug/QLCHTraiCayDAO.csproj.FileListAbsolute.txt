@@ -1,0 +1,146 @@
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCayDAO\obj\Debug\QLCHTraiCayDAO.pdb

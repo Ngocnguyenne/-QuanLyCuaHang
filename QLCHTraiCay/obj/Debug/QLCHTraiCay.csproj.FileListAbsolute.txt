@@ -1,0 +1,562 @@
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmdangnhap.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Downloads\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+G:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+H:\DALTWinNC\QLCHTraiCay\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Thanh Son\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\QLCHTraiCay - Copy\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\hjhj\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Thanh Son\Downloads\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\Đồ-Án (1)\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+E:\bài đang làm\Đồ-Án\Đồ Án\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+G:\DoAnLTWinNC\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Desktop\Win NC\bài đang làm\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Thanh Son\Desktop\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+C:\Users\Dang Minh Tri\Downloads\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+G:\Đồ Án\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKho.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+G:\Đồ Án\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+F:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+G:\DoAnLTWinNC\Bài mới\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmXemBaoCao.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\RdlCompile.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\RdlCompile.compiled
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\bài đang làm\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe.config
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCay.exe
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCay.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.dll
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayBUS.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayDTO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\bin\Debug\QLCHTraiCayDAO.pdb
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.csprojResolveAssemblyReference.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.BanTraiCay.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmDangNhap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmMain.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.frmXemBaoCao.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.NhapHang.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.Properties.Resources.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonNhap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLHoaDonXuat.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLKhachHang.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhaCungCap.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLNhanVien.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.QLSanPham.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.ThongKe.resources
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\QLCHTraiCay.csproj.GenerateResource.Cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\RdlCompile.cache
+C:\Users\Dang Minh Tri\Downloads\Đặng Minh Trí\Nhom08\QLCHTraiCay\obj\Debug\RdlCompile.compiled
